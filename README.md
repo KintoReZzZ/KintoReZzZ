@@ -1,4 +1,5 @@
 <h1 align='center'>Готовимся к перезагрузке</h1>
+
 ***
 ![](/images/logo.png)
 ***
