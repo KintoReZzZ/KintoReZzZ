@@ -47,15 +47,15 @@
 #### BIO
 
 - 🏢 Выучился в **VR-AR Квантум**, *Кванториум*. Сейчас учусь только в **Лингвистической Гимназии**
-- 🌱 Сейчас изучаю <img src="https://img.shields.io/badge/Deep Learning-brown">
+- 🌱 Сейчас изучаю <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; Люблю слушать и иногда писать музыку 🎧 Хожу в качалку 🏋️‍♂️ Люблю бадминтон 🏸 И путешествовать в соседнее село 🌄🗿
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Дотянуться до меня: <a href="mailto:albertwesker839839@yandex.kz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-albertwesker839839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
 <p align="center">
     <a href="https://github.com/kintorezzz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="https://github.com/kintorezzz?tab=repositories&language=с" target="_blank"><img alt="Python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="https://github.com/kintorezzz?tab=repositories&language=php" target="_blank"><img alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+    <a href="https://github.com/kintorezzz?tab=repositories&language=с" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="https://github.com/kintorezzz?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <!--<a href="https://github.com/kintorezzz?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-★★★-lightgrey?style=flat-square&labelColor=FFD43B&logo=python&logoColor=darkgreen"></a>-->
     <a href="https://github.com/kintorezzz?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
     <!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
