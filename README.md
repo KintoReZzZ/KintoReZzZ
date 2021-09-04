@@ -14,7 +14,7 @@
 
 
 <h3 align="center"> 
-    <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Я Александр Молчанов и я увлекаюсь программированием 💻 и меня считают Коммунистом ☭ (Из-за чего я даже переименовался в Discord). А ещё меня считают кул хацкером<img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
+    <a href="https://www.my.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Я Александр Молчанов и я увлекаюсь программированием 💻 и меня считают Коммунистом ☭ (Из-за чего я даже переименовался в Discord). А ещё меня считают кул хацкером<img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
 </h3> 
 
 <p align="center">   
@@ -23,7 +23,7 @@
 <p align="center"> 
     <a href="https://github.com/kintorezzz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://t.me/ichbinfritznicht" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://vk.com/krasngolaziiik" target="_blank"><img alt="ВКонтакте" src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://vk.com/krasnoпlaziiik" target="_blank"><img alt="ВКонтакте" src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://kintorezzz.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
@@ -71,17 +71,17 @@
 
 <details>
 <summary><samp>&#9776;</samp> "Характеристики ноутбука" </summary>
-Система - <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-Процессор - <img src="https://img.shields.io/badge/Intel-Atom-N450-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-Видеокарта - <img src="https://img.shields.io/badge/Intel-GMA_3150-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+- Система - <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+- Процессор - <img src="https://img.shields.io/badge/Intel-Atom-N450-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+- Видеокарта - <img src="https://img.shields.io/badge/Intel-GMA_3150-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 </p>
 </details>
 
 <details>
     <summary><samp>&#9776;</samp> "Характеристики компьютера" </summary>
-Система - <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
-Процессор - <img src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-Видеокарта - <img src="https://img.shields.io/badge/NVIDIA-GTX650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+- Система - <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
+- Процессор - <img src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+- Видеокарта - <img src="https://img.shields.io/badge/NVIDIA-GTX650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 </details>
 
