@@ -34,9 +34,9 @@
 
 <table align="right">
     <tr><td><img src="https://image.flaticon.com/icons/svg/3898/3898082.svg" width="25"> Языки</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://image.flaticon.com/icons/svg/197/197484.svg" height="15"> Русский ★★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197408.svg" height="15"> Английский ★★★★</a></td></tr>
-    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/png/512/197/197577.svg" height="15"> Иврит (Не начал изучать)</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://image.flaticon.com/icons/svg/197/197408.svg" height="15"> Русский ★★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197484.svg" height="15"> Английский ★★★★</a></td></tr>
+    <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/512/197/197577.svg" height="15"> Иврит (Не начал изучать)</a></td></tr>
     <tr><td><a href="README_pt.md"><img src="https://image.flaticon.com/icons/svg/197/197571.svg" height="15"> Немецкий ★★★</a></td></tr>
 </table>
 
