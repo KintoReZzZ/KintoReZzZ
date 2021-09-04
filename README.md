@@ -49,7 +49,7 @@
 - 🏢 Выучился в **VR-AR Квантум**, *Кванториум*. Сейчас учусь только в **Лингвистической Гимназии**
 - 🌱 Сейчас изучаю <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; Люблю слушать и иногда писать музыку 🎧 Хожу в качалку 🏋️‍♂️ Люблю бадминтон 🏸 И путешествовать в соседнее село 🌄🗿
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Дотянуться до меня: <a href="mailto:albertwesker839839@yandex.kz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-albertwesker839839@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Дотянуться до меня: <a href="mailto:albertwesker839839@yandex.kz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-albertwesker839839@yandex.kz-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
 <p align="center">
