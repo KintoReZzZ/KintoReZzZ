@@ -23,7 +23,7 @@
 <p align="center"> 
     <a href="https://github.com/kintorezzz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://t.me/ichbinfritznicht" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://vk.com/krasnoпlaziiik" target="_blank"><img alt="ВКонтакте" src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://vk.com/krasnoglaziiik" target="_blank"><img alt="ВКонтакте" src="https://img.shields.io/badge/VKontakte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
     <!--<a href="https://scholar.google.com/citations?user=TV396CYAAAAJ&hl=en" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-portfolio-%23?colorB=orange&style=flat-square&logo=&logoColor=white"></a>-->
     <!--<a href="https://kintorezzz.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-web-%23.svg?colorB=orange&style=flat&&logo=&logoColor=white%22"></a>-->
     <!--<img alt="WeChat" src="https://img.shields.io/static/v1?label=WeChat&message=milaanparmar9&color=7BB32E&logo=wechat"/>-->
@@ -46,9 +46,11 @@
 
 #### BIO
 
-- 🏢 Выучился в **VR-AR Квантум**, *Кванториум*. Сейчас учусь только в **Лингвистической Гимназии**
+- 🏢 Выучился в **VR-AR Квантуме**, *Кванториум*. Сейчас учусь только в **Лингвистической Гимназии**
 - 🌱 Сейчас изучаю <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 - <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; Люблю слушать и иногда писать музыку 🎧 Хожу в качалку 🏋️‍♂️ Люблю бадминтон 🏸 И путешествовать в соседнее село 🌄🗿
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="28px"> Работаю в Abius CompleX
+<h1 align="center"> <img src="https://github.com/Abius-Dev/logos/blob/main/%D0%9D%D0%B0%D1%88%20%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82.png" </h1>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Дотянуться до меня: <a href="mailto:albertwesker839839@yandex.kz" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-albertwesker839839@yandex.kz-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
 
