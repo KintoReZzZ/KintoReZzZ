@@ -71,16 +71,14 @@
 
 <details>
 <summary><samp>&#9776;</samp> "Характеристики ноутбука" </summary>
-<p align="center">
 ## Система - <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-## Процессор - <img src="https://img.shields.io/badge/Intel-Atom-N450?style=for-the-badge&logo=intel&logoColor=white">
-## Видеокарта - <img src="https://img.shields.io/badge/Intel-GMA_3150?style=for-the-badge&logo=intel&logoColor=white">
+## Процессор - <img src="https://img.shields.io/badge/Intel-Atom-N450?-0071C5style=for-the-badge&logo=intel&logoColor=white">
+## Видеокарта - <img src="https://img.shields.io/badge/Intel-GMA_3150-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 </p>
 </details>
 
 <details>
-<summary><samp>&#9776;</samp> "Характеристики компьютера" </summary>
-<p align="center">
+    <summary><samp>&#9776;</samp> "Характеристики компьютера" </summary>
 ## Система - <img src="https://img.shields.io/badge/Windows_7-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 ## Процессор - <img src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 ## Видеокарта - <img src="https://img.shields.io/badge/NVIDIA-GTX650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
