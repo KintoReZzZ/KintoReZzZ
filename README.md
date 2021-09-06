@@ -7,9 +7,9 @@
     <img src="https://badges.pufler.dev/commits/monthly/kintorezzz" alt="Красноглазик"/>   
     <a href="https://github.com/kintorezzz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kintorezzz?color=4C1&logo=github"></a>
     <a href="https://github.com/kintorezzz/kintorezzz" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/kintorezzz/kintorezzz?label=Profile%20update&style=fflat-square"></a>
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
     <!--<a href="https://github.com/kintorezzz" target="_blank"><img alt="kintorezzz" src="https://badges.pufler.dev/visits/kintorezzz/kintorezzz?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/kintorezzz" alt="kintorezzz"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="kintorezzz"/>-->
 </p> 
 
 
