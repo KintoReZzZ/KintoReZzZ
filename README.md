@@ -1,9 +1,9 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Приятно познакомиться! </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=kintorezzz" alt="Красноглазик"/>       
-    <a href="https://github.com/kintorezzz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kintorezzz" alt="Красноглазик"/></a> 
-    <img src="https://badges.pufler.dev/years/kintorezzz" alt="Monthly commits"/>  
+    <img src="https://komarev.com/ghpvc/?username=kintorezzz" alt="Красноглазые репозитории"/>       
+    <a href="https://github.com/kintorezzz?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kintorezzz" alt="Красноглазые репозитории"/></a> 
+    <img src="https://badges.pufler.dev/years/kintorezzz" alt="Коммитов в год"/>  
     <img src="https://badges.pufler.dev/commits/monthly/kintorezzz" alt="Коммитов за месяц"/>   
     <a href="https://github.com/kintorezzz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/kintorezzz?color=4C1&logo=github"></a>
     <a href="https://github.com/kintorezzz/kintorezzz" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/kintorezzz/kintorezzz?label=Profile%20update&style=fflat-square"></a>
