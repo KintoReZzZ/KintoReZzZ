@@ -14,7 +14,7 @@
 
 
 <h3 align="center"> 
-    <a href="https://www.my.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Я Евгений Костенко и я увлекаюсь программированием 💻 и меня считают Коммунистом ☭ (Из-за чего я даже переименовался в Discord). А ещё меня считают кул хацкером<img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
+    <a href="https://www.my.site/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Я Молчанов Алексей и я увлекаюсь программированием 💻 и меня считают Коммунистом ☭ (Из-за чего я даже переименовался в Discord). А ещё меня считают кул хацкером<img align="center" alt="GIF" width="30px"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif"/>
 </h3> 
 
 <p align="center">   
